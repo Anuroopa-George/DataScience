@@ -1,0 +1,30 @@
+Following are the contents inside the ASDV_CODE.zip file
+
+ASDV_TASK2_R.R
+ASDV_task1_EDA.R
+Global climate change driver- CO2 emissions.pbix
+World_bank_world_development_indicators_CO2_emmisions_Task2.csv
+
+
+------------------------Dashboard Design TASK 1----------------------
+---------------------Quick Install Instructions----------------
+1. Install Microsoft PowerBI desktop
+2. Click on Global climate change driver- CO2 emissions.pbix and open in Microsoft PowerBI desktop 
+3. Browse through and sheets and the Dashboard is ready to use
+4. The ASDV_task1_EDA.R file contains the exploratory data analysis done for the dashboard design
+
+-------------------------Statistical Analysis in R TASK 2------------------------
+The ASDV_TASK2_R.R contains the code in a systematic format  for the following analysis methods
+1. EDA               			 
+2. Correlation Analysis               
+3. Regression Analysis                 
+3. Time Series Analysis
+5. Hypothesis Testing
+
+-----------------------R Usage Instructions-------------------
+1. Install R and RStudio.
+2. Move ASDV_TASK2_R.R and World_bank_world_development_indicators_CO2_emmisions_Task2.csv into a folder where you want to work on.
+3. Right click on the file and select open with RStudio.
+4. Browse the location to where the files is saved and set the working directory as follows : Files → More → Set as working Directory.
+5. Install necessary libraries and load the libraries on top of the R files
+6. Run the codes.
